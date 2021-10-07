@@ -1,4 +1,4 @@
-# 菜市场 BFF 服务说明
+# 轻舟 BFF 服务说明
 
 ## 开发指引
 ### 安装依赖
@@ -53,6 +53,3 @@ yarn stop
 ├── typings                        # 类型自动生成
 └── yarn.lock
 ```
-
-## 关于框架 
-<a href="https://git.gaoding.com/gaoding-framwork/ergate/wiki">Ergate</a>
